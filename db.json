@@ -47,6 +47,18 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "Death Scythe Gunpla",
+      "image": "https://bbts1.azureedge.net/images/p/full/2020/01/16f3db3c-fd5c-4791-8412-8ed30d581c06.jpg",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "Gundam Wing Gunpla",
+      "image": "https://m.media-amazon.com/images/I/81EacpB5lXL._AC_SL1500_.jpg",
+      "likes": 5,
+      "id": 10
     }
   ]
 }
